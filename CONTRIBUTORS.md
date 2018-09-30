@@ -4,3 +4,4 @@
 - [Vlad Corneci](https://github.com/asaltvld30)
 - [Pratyum Jagannath](https://github.com/pratyum)
 - [Gunjan Tank](https://github.com/gunjan01)
+- [Indraneel Sarkar](https://github.com/sark01)
