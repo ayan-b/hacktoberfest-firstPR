@@ -8,3 +8,4 @@
 - [Peter Haddad](https://github.com/PeterHdd)
 - [Rupesh Krishna Jha](https://github.com/Rupeshiya)
 - [Indraneel Sarkar](https://github.com/sark01)
+- [Gibran Khrisna Putra](https://github.com/brantem)
