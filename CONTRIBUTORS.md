@@ -12,3 +12,4 @@
 - [Ahmad Lufi A U](https://github.com/ahmadlufiau)
 - [Witaya Tospitakkul](https://github.com/wtospit)
 - [Mohammad Wahyu Sanusi Putra](https://github.com/waysp)
+- [Arjun Rajpal](https://github.com/arjunrajpal)
