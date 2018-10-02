@@ -1,18 +1,20 @@
 ## CONTRIBUTORS
 
-- [Ayan Banerjee](https://github.com/ayan-b)
-- [Vlad Corneci](https://github.com/asaltvld30)
-- [Pratyum Jagannath](https://github.com/pratyum)
-- [Gunjan Tank](https://github.com/gunjan01)
-- [Pranav Sharma](https://github.com/sharma-p)
-- [Peter Haddad](https://github.com/PeterHdd)
-- [Rupesh Krishna Jha](https://github.com/Rupeshiya)
-- [Indraneel Sarkar](https://github.com/sark01)
-- [Gibran Khrisna Putra](https://github.com/brantem)
-- [Ahmad Lufi A U](https://github.com/ahmadlufiau)
-- [Witaya Tospitakkul](https://github.com/wtospit)
-- [Mohammad Wahyu Sanusi Putra](https://github.com/waysp)
-- [Arjun Rajpal](https://github.com/arjunrajpal)
-- [HubbleJo](https://github.com/hubblejo)
-- [Mohan Cm](https://github.com/mohancm)
-- [jacebenson](https://github.com/jacebenson)
+| Sl. No. | Name | Institution | Country |
+| ------- | ---- | ----------- | ------- |
+|1| [Ayan Banerjee](https://github.com/ayan-b) | | |
+|2| [Vlad Corneci](https://github.com/asaltvld30) | | |
+|3| [Pratyum Jagannath](https://github.com/pratyum) | | |
+|4| [Gunjan Tank](https://github.com/gunjan01) | | |
+|5| [Pranav Sharma](https://github.com/sharma-p) | | |
+|6| [Peter Haddad](https://github.com/PeterHdd) | | |
+|7| [Rupesh Krishna Jha](https://github.com/Rupeshiya) | | |
+|8| [Indraneel Sarkar](https://github.com/sark01) | | |
+|9| [Gibran Khrisna Putra](https://github.com/brantem) | | |
+|10| [Ahmad Lufi A U](https://github.com/ahmadlufiau) | | |
+|11| [Witaya Tospitakkul](https://github.com/wtospit) | | |
+|12| [Mohammad Wahyu Sanusi Putra](https://github.com/waysp) | | |
+|13| [Arjun Rajpal](https://github.com/arjunrajpal) | | |
+|14| [HubbleJo](https://github.com/hubblejo) | | |
+|15| [Mohan Cm](https://github.com/mohancm) | | |
+|16| [jacebenson](https://github.com/jacebenson) | | |
