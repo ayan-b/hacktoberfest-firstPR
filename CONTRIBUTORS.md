@@ -14,4 +14,6 @@
 - [Mohammad Wahyu Sanusi Putra](https://github.com/waysp)
 - [Arjun Rajpal](https://github.com/arjunrajpal)
 - [HubbleJo](https://github.com/hubblejo)
+- [Mohan Cm](https://github.com/mohancm)
+- [jacebenson](https://github.com/jacebenson)
 - [Dushyant Rathore](https://github.com/dushyantRathore)
