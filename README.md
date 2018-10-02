@@ -6,4 +6,3 @@ In the CONTRIBUTORS file simply add your name, institution, country in the follo
 Note that `Your Institution Name` and `Your Country Name` are optional and you may leave them blank if you wish.
 
 Note that your commit message should include `Fixes issue https://github.com/ayan-b/hacktoberfest-firstPR/issues/1`.
-| 1. | [James](https://github.com/james-flynn-ie)
