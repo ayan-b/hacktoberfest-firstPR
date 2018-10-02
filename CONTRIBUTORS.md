@@ -13,7 +13,7 @@
 |9| [Gibran Khrisna Putra](https://github.com/brantem) | | |
 |10| [Ahmad Lufi A U](https://github.com/ahmadlufiau) | | |
 |11| [Witaya Tospitakkul](https://github.com/wtospit) | | |
-|12| [Mohammad Wahyu Sanusi Putra](https://github.com/waysp) | | |
+|12| [Mohammad Wahyu Sanusi Putra](https://github.com/waysp) | - | Indonesia |
 |13| [Arjun Rajpal](https://github.com/arjunrajpal) | | |
 |14| [HubbleJo](https://github.com/hubblejo) | | |
 |15| [Mohan Cm](https://github.com/mohancm) | | |
