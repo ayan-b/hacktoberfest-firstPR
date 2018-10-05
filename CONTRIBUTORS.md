@@ -26,4 +26,6 @@
 |22| [Nitesh Tosniwal](https://github.com/sudonitesh) | | India |
 |23| [DeepRobin](https://github.com/deeprobin) | | Germany |
 |24| [Leandro Ferreira](https://github.com/leofls) | | Brazil |
-|25| [Kamakshi Behl](https://github.com/kamakshibehl) || India |
+|24| [HS](https://github.com/harsharinivas) | | India |
+|25| [Leandro Ferreira](https://github.com/leofls) | | Brazil |
+|26| [Kamakshi Behl](https://github.com/kamakshibehl) | | India |
