@@ -31,3 +31,4 @@
 |27| [Kamakshi Behl](https://github.com/kamakshibehl) | | India |
 |28| [Siddhanta Panda](https://github.com/siddhantapanda77) | | India |
 |29| [Naman Jain](https://github.com/namanjain323232) | | India | 
+|30| [Arinna Black](https://github.com/ArinnaBee) | | USA
