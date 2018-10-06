@@ -33,3 +33,4 @@
 |29| [Naman Jain](https://github.com/namanjain323232) | | India | 
 |30| [Arinna Black](https://github.com/ArinnaBee) | | USA |
 |31| [Julius Nieves](https://github.com/Julz4455) | | USA |
+|32| [Tanmay Singhal](https://github.com/tanmaysinghal98) | | India |
