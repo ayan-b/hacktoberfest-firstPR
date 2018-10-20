@@ -43,3 +43,4 @@
 |39| [AtoMc](https://github.com/AtoMc) | | Spain |
 |40| [Theerapat kateja](https://github.com/<oofteerapud02>) | | Thailand |
 |41| [Kelvin Osh](https://github.com/<kelvinosh>) | | USA |
+|42| [Pedro Verissimo](https://github.com/pbv2) |UFPE| Brasil |
