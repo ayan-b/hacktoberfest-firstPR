@@ -43,5 +43,5 @@
 |39| [AtoMc](https://github.com/AtoMc) | | Spain |
 |40| [Theerapat kateja](https://github.com/<oofteerapud02>) | | Thailand |
 |41| [Kelvin Osh](https://github.com/<kelvinosh>) | | USA |
-|41| [Jim Mitsos](https://github.com/jimmitsos) | | Greece |
-|43|[Nimesha1996](https://github.com/Nimesha1996) |  Sri Lanka |
+|42| [Jim Mitsos](https://github.com/jimmitsos) | | Greece |
+|43| [Nimesha1996](https://github.com/Nimesha1996) | - | Sri Lanka |
