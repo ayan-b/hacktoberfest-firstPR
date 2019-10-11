@@ -42,10 +42,12 @@
 |38| [Abhishta Gatya](https://github.com/abhishtagatya) | | Indonesia | 2018 |
 |39| [AtoMc](https://github.com/AtoMc) | | Spain | 2018 |
 |40| [Theerapat kateja](https://github.com/oofteerapud02) | | Thailand | 2018 |
-|41| [Kelvin Osh](https://github.com/<kelvinosh>) | | USA | 2018 |
+|41| [Kelvin Osh](https://github.com/kelvinosh) | | USA | 2018 |
 |42| [Jim Mitsos](https://github.com/jimmitsos) | | Greece | 2019 |
 |43| [Nimesha1996](https://github.com/Nimesha1996) | - | Sri Lanka | 2019 |
 |44| [Revanth Reddy](https://github.com/revanth-reddy) | NIT Durgapur | India | 2019 |
 |45| [Dion Tseb](https://github.com/diontseb) | | Greece | 2019 |
 |46| [David Bambusek](https://github.com/bambusekd) | | Czechia | 2019 |
-|47| [Aayush](https://github.com/aayushsaini1) | | India | 2019 |
+|47| [Deepika Katiyar](https://github.com/Deepika309) | | India | 2019 |
+|48| [Gaurav Singh](https://github.com/saintpopo) |-|-| 2019 |
+|49| [Aayush](https://github.com/aayushsaini1) |-| India | 2019 |
