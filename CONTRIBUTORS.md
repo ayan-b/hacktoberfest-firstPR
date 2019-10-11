@@ -51,3 +51,4 @@
 |47| [Deepika Katiyar](https://github.com/Deepika309) | | India | 2019 |
 |48| [Gaurav Singh](https://github.com/saintpopo) |-|-| 2019 |
 |49| [Aayush](https://github.com/aayushsaini1) |-| India | 2019 |
+|50| [Sneha Bamba](https://github.com/sneha-bamba) |-| India | 2019 |
