@@ -55,4 +55,3 @@
 |51| [Jatin Aggarwal](https://github.com/jatinagg1) |-| India | 2019 |
 |52| [Tanay](https://github.com/TANAYTAPANSHU) |-| India | 2019 |
 |53| [Flavia](https://github.com/flaviamedici) |-| USA | 2019 |
-
